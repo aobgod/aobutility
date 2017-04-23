@@ -1,0 +1,18 @@
+{
+  "name": "aobutility",
+  "version": "1.0.1",
+  "description": "Some easy utilities function for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utility",
+    "function"
+  ],
+  "dependencies": {
+    "moment": "2.12.0"
+  },
+  "author": "aobgod",
+  "license": "MIT"
+}
